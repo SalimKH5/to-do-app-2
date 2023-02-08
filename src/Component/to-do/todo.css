@@ -1,0 +1,23 @@
+.todo{
+    width: 80%;
+    padding:5px;
+    height: 2.5rem;
+    border-radius: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #e75c43;
+    background-image: linear-gradient(62deg, #23e9be 0%, #ddf039 100%);
+    margin-top:40px;
+}
+
+.menu{
+    display: flex;
+    align-items: center;
+    gap:20px;
+}
+
+.complete
+{
+text-decoration: line-through;
+}
